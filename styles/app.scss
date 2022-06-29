@@ -1,0 +1,26 @@
+/*
+  Project: STRM Privacy Console
+  Author: Joep van Leijsen (@joepvanleijsen)
+ */
+@charset 'utf-8';
+
+/*
+ * Settings
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Base
+ */
+@layer base {
+	@import 'settings/_settings.fonts';
+}
+
+/*
+ * Components
+ */
+// @layer components {
+// 	// @import 'components/_components.dummy';
+// }
